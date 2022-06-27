@@ -1,7 +1,7 @@
 # SOBRE MIM 
 - 👋 Ola meu nome e @rhaissa3
 - 👀 eu estou interessado em aprender novas linguagens de programaçao
-- :+1: Meu email de contato e rhaissa.cavalheiro@escola.pr.gov.br 
+- :+1: Meu email de contato e [email](rhaissa.cavalheiro@escola.pr.gov.br) 
 - 🌱 eu estou aprendendo a programar recentemente as linguagens scratch e javaScript
 
 <!---
