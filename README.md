@@ -1,10 +1,8 @@
 # SOBRE MIM 
-- 👋 Ola meu nome e @rhaissa3
-- 👀 eu estou interessado em aprender novas linguagens de programaçao
-- :+1: Meu email de contato e [email](rhaissa.cavalheiro@escola.pr.gov.br) 
-- 🌱 eu estou aprendendo a programar recentemente as linguagens scratch e javaScript
+- 👋 Olá meu nome é [Rhaissa](@rhaissa3)
+- 👀 Eu estou interessada em aprender novas linguagens de programação
+- :+1: Meu email de contato é [email](rhaissa.cavalheiro@escola.pr.gov.br) 
+- 🌱 Eu estou aprendendo a programar recentemente as linguagens HTML e JAVASCRIPT
 
-<!---
-rhaissa3/rhaissa3 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+![](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
+![](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
